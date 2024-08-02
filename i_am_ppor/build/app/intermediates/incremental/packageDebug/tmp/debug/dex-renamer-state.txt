@@ -1,0 +1,4 @@
+#Thu Aug 01 16:04:01 ICT 2024
+base.0=A\:\\Dart-Flutter\\WorkSpace\\Tutorial\\i_am_ppor\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

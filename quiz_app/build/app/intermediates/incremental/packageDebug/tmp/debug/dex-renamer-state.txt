@@ -1,0 +1,4 @@
+#Sat Jul 06 11:16:14 ICT 2024
+base.0=A\:\\Dart-Flutter\\WorkSpace\\Tutorial\\quiz_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
